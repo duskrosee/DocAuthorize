@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.pdf
+build/
+dist/
+*.spec
+*.db
+backups/
+*.xlsx
+reports/*.xlsx
+
+# Ignore the following files

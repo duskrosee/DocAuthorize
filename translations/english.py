@@ -1,0 +1,78 @@
+TRANSLATIONS = {
+    "clients": "Clients",
+    "documents": "Documents",
+    "dashboard": "Dashboard",
+    "search": "Search",
+    "settings": "Settings",
+    "refresh": "Refresh",
+    "export_excel": "Export to Excel",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "unknown": "Unknown",
+    "manager": "Manager",
+    "contracts": "Contracts",
+    "contract_date": "Contract date",
+    "price": "Price",
+
+    # Dashboard
+    "dashboard_subtitle": "Document analysis overview",
+    "need_review": "Need review",
+    "recent_activity": "Recent activity",
+    "new_documents": "New documents added",
+    "contract_changes": "Contract changes registered",
+    "upload_description": "Upload a PDF. DocAuthorize first reads printed text...",
+    "upload_document": "Upload PDF",
+    "save_client": "Save client",
+    "no_document": "No document selected",
+    "analysis_result": "The document analysis will appear here.",
+
+    # Clients & Search
+    "company_phone": "Company phone",
+    "contact_person": "Contact person",
+    "validity_period": "Valid until",
+    "send_all": "Send All",
+    "delete_client": "Delete",
+    "delete_client_title": "Delete client",
+    "delete_client_question": "Delete this client and all documents?",
+    "deleted_title": "Deleted",
+    "client_deleted": "Client removed successfully.",
+    "file_missing_title": "File missing",
+    "file_missing_text": "No document path saved.",
+    "file_not_found_title": "File not found",
+    "search_title": "Search client by NIP",
+    "search_button": "Search",
+    "enter_nip": "Enter NIP...",
+    "not_found_title": "Not found",
+    "not_found_text": "Client with this NIP does not exist.",
+    "date_not_found": "Date not found",
+    "no_file": "No file",
+
+    # Documents page extra
+    "select_pdf_title": "Select PDF documents",
+    "selected_prefix": "Selected:",
+    "no_doc_warning": "No documents to process. Please upload PDFs first.",
+    "analysis_error_title": "❌ Could not analyze this PDF.",
+    "send_report_to_boss": "Send report to boss",
+    "process_save_db": "Process and save to DB",
+    "upload_pdfs": "📄 Upload PDFs",
+
+    # Settings page
+    "settings_description": "Enter the corporate email, its password, and the manager's email to receive reports. Changing credentials requires mandatory verification via the corporate email.",
+    "corporate_email": "Corporate Email:",
+    "password": "Password:",
+    "manager_email": "Manager Email (Boss):",
+    "save_verification": "Send Verification Code & Save",
+    "sending_code": "Sending Verification Code...",
+    "verification_title": "Security Verification",
+    "verification_prompt": "A 6-digit confirmation code has been sent to {email}.\nEnter code:",
+    "verification_success_msg": "Verification passed! Settings saved securely.",
+    "access_denied_msg": "Invalid confirmation code. Settings were NOT saved.",
+    "fill_all_fields": "Please fill in all fields (Email, Password and Boss Email)!",
+    "auth_failed_title": "Authentication Failed",
+    "auth_failed_msg": "Could not send verification email. Please make sure the entered email and password are correct.",
+    
+    }
+
+
+    #.
